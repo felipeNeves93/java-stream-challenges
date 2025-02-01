@@ -15,7 +15,7 @@ public class Challenge8 {
   public String solutionChallenge8(String sentence) {
     /*
       First we transform the string into a list using split and transforming the array into a list
-      After this, we sort in natural order by string length and transform into a list again
+      After this, we sort in natural order by using a comparator.
       To finish the operation we convert to a list again and take the last element
      */
     return Arrays.stream(sentence.split(" "))
