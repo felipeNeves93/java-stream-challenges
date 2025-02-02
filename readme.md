@@ -127,7 +127,7 @@ String text = "success is a journey not a destination";
 Count the number of occurrences of each vowel (a, e, i, o, u) in a string.
 String text = "Functional programming is awesome!";
 **Expected output:**
-{a=2, e=2, i=3, o=3, u=2}
+{a=3, e=2, i=3, o=3, u=1}
 ---
 
 * **Challenge 12:** Find the First Non-Repeating Character

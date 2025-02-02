@@ -10,10 +10,10 @@ import org.junit.jupiter.api.Test;
 public class Challenge10 {
 
   /**
-   * Challenge 10: Challenge 10: Find Most Frequent Character (Ignoring Spaces) Given a string, find
-   * the most frequently occurring character. If multiple characters have the same frequency, return
-   * any one of them. String text = "success is a journey not a destination"; Expected output: 's'
-   * (or any valid most frequent character)"
+   * Challenge 10: Find Most Frequent Character (Ignoring Spaces) Given a string, find the most
+   * frequently occurring character. If multiple characters have the same frequency, return any one
+   * of them. String text = "success is a journey not a destination"; Expected output: 's' (or any
+   * valid most frequent character)"
    **/
   public String solutionChallenge10(String sentence) {
     /*
