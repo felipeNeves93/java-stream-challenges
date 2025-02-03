@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d73675ed-807d-4468-833d-8d821308d2dd" name="Changes" comment="Added solution to challenge 15">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge16/Challenge16.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build java-streams-exercises.executor": "Run",
+    "JUnit.TestChallenge1.executor": "Run",
+    "JUnit.TestChallenge10.executor": "Run",
+    "JUnit.TestChallenge10.testChallenge10.executor": "Run",
+    "JUnit.TestChallenge11.executor": "Run",
+    "JUnit.TestChallenge12.testChallenge12.executor": "Run",
+    "JUnit.TestChallenge13.testChallenge13.executor": "Run",
+    "JUnit.TestChallenge14.executor": "Run",
+    "JUnit.TestChallenge14.testChallenge14.executor": "Run",
+    "JUnit.TestChallenge15.testChallenge15.executor": "Run",
+    "JUnit.TestChallenge16.testChallenge16.executor": "Run",
+    "JUnit.TestChallenge2.executor": "Run",
+    "JUnit.TestChallenge3.testChallenge3.executor": "Run",
+    "JUnit.TestChallenge4.testChallenge4.executor": "Run",
+    "JUnit.TestChallenge5.testChallenge5.executor": "Run",
+    "JUnit.TestChallenge6.executor": "Run",
+    "JUnit.TestChallenge7.testChallenge7.executor": "Run",
+    "JUnit.TestChallenge8.testChallenge8.executor": "Run",
+    "JUnit.TestChallenge9.testChallenge9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/felipeneves/Documents/studies/java-streams-exercises/src/main/java/com/javastreamexercises/challenges/challenge16"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge16" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge15" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge14" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge13" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestChallenge16.testChallenge16">
+    <configuration name="TestChallenge13.testChallenge13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-streams-exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastreamexercises.challenges.challenge13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javastreamexercises.challenges.challenge13" />
+      <option name="MAIN_CLASS_NAME" value="com.javastreamexercises.challenges.challenge13.TestChallenge13" />
+      <option name="METHOD_NAME" value="testChallenge13" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChallenge14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-streams-exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastreamexercises.challenges.challenge14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javastreamexercises.challenges.challenge14" />
+      <option name="MAIN_CLASS_NAME" value="com.javastreamexercises.challenges.challenge14.TestChallenge14" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChallenge14.testChallenge14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-streams-exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastreamexercises.challenges.challenge14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javastreamexercises.challenges.challenge14" />
+      <option name="MAIN_CLASS_NAME" value="com.javastreamexercises.challenges.challenge14.TestChallenge14" />
+      <option name="METHOD_NAME" value="testChallenge14" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChallenge15.testChallenge15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-streams-exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastreamexercises.challenges.challenge15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javastreamexercises.challenges.challenge15" />
+      <option name="MAIN_CLASS_NAME" value="com.javastreamexercises.challenges.challenge15.TestChallenge15" />
+      <option name="METHOD_NAME" value="testChallenge15" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChallenge16.testChallenge16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-streams-exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastreamexercises.challenges.challenge16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javastreamexercises.challenges.challenge16" />
+      <option name="MAIN_CLASS_NAME" value="com.javastreamexercises.challenges.challenge16.TestChallenge16" />
+      <option name="METHOD_NAME" value="testChallenge16" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestChallenge16.testChallenge16" />
+        <item itemvalue="JUnit.TestChallenge15.testChallenge15" />
+        <item itemvalue="JUnit.TestChallenge14" />
+        <item itemvalue="JUnit.TestChallenge14.testChallenge14" />
+        <item itemvalue="JUnit.TestChallenge13.testChallenge13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73675ed-807d-4468-833d-8d821308d2dd" name="Changes" comment="" />
+      <created>1738339494606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738339494606</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit with repo structure and challenge1">
+      <option name="closed" value="true" />
+      <created>1738343356541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738343356541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added solution to challenge2.">
+      <option name="closed" value="true" />
+      <created>1738343858212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738343858212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added solution to challenge3.">
+      <option name="closed" value="true" />
+      <created>1738355659229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738355659229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added solution to challenge4.">
+      <option name="closed" value="true" />
+      <created>1738371328528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738371328528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added solution to challenge5.">
+      <option name="closed" value="true" />
+      <created>1738372301821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738372301821</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added solution to challenge6.">
+      <option name="closed" value="true" />
+      <created>1738372845713</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738372845713</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added solution to challenge7.">
+      <option name="closed" value="true" />
+      <created>1738374474292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738374474292</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added solution to challenge8.">
+      <option name="closed" value="true" />
+      <created>1738377447466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738377447466</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated comments for challenge 8">
+      <option name="closed" value="true" />
+      <created>1738377517816</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738377517816</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added challenges 9 and 10">
+      <option name="closed" value="true" />
+      <created>1738458435681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738458435681</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added solution to challenge 11 and minor fixes.">
+      <option name="closed" value="true" />
+      <created>1738459366068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738459366068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added solution to challenge 12">
+      <option name="closed" value="true" />
+      <created>1738459935831</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738459935831</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added solution to challenge 13">
+      <option name="closed" value="true" />
+      <created>1738460339601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738460339601</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added solution to challenge 14">
+      <option name="closed" value="true" />
+      <created>1738461369486</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738461369486</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added solution to challenge 15">
+      <option name="closed" value="true" />
+      <created>1738501841954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738501841954</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit with repo structure and challenge1" />
+    <MESSAGE value="Added solution to challenge2." />
+    <MESSAGE value="Added solution to challenge3." />
+    <MESSAGE value="Added solution to challenge4." />
+    <MESSAGE value="Added solution to challenge5." />
+    <MESSAGE value="Added solution to challenge6." />
+    <MESSAGE value="Added solution to challenge7." />
+    <MESSAGE value="Added solution to challenge8." />
+    <MESSAGE value="Updated comments for challenge 8" />
+    <MESSAGE value="Added challenges 9 and 10" />
+    <MESSAGE value="Added solution to challenge 11 and minor fixes." />
+    <MESSAGE value="Added solution to challenge 12" />
+    <MESSAGE value="Added solution to challenge 13" />
+    <MESSAGE value="Added solution to challenge 14" />
+    <MESSAGE value="Added solution to challenge 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution to challenge 15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge2/Challenge2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javastreamexercises/challenges/challenge7/Challenge7.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

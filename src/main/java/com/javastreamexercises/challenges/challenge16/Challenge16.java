@@ -15,7 +15,7 @@ public class Challenge16 {
    **/
   public List<String> solutionChallenge16(Map<Integer, String> map) {
     /*
-    To convert to a map, first he have to get the entrySet, and then, use the map function to transform
+    To convert to a map, first we have to get the entrySet, and then, use the map function to transform
     to the desired format, in this case .map(key=value), and then sort by natural order with sorted()
      */
     return map.entrySet()
